@@ -1,2 +1,2 @@
 # quick_project
-https://sfoysal75.github.io/quick_project/
+https://shariffaysal.github.io/quick_project/
